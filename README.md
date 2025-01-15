@@ -2,6 +2,7 @@
 
 This project is a Spring Boot application designed for tenant-based request routing. It dynamically handles tenant configurations, tracks metrics, and routes requests to tenant-specific endpoints.
 
+For a detailed explanation of the design, architecture, and future enhancements, refer to the **Solution Statement** included in the project.
 
 
 ## Features
